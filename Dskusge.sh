@@ -1,1 +1,1 @@
-df -h 1>log1
+df -h 1>log2
